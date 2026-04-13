@@ -1,2 +1,0 @@
-# fashion-archive
-fashion-archive 
