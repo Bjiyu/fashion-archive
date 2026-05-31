@@ -1,0 +1,7 @@
+# Generated ambient audio output
+output/
+*.wav
+
+# Python
+__pycache__/
+*.pyc
